@@ -1,0 +1,189 @@
+{
+  "main": {
+    "id": "8397754d79ed1215",
+    "type": "split",
+    "children": [
+      {
+        "id": "7502a0a0281f3294",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cd47a7aaca0e38cf",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "df6485650f775787",
+    "type": "split",
+    "children": [
+      {
+        "id": "f724b4b346d8e239",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8b51a12270573227",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "86b276edda7e8264",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "contribute",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "56ece5d11b0d324c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ccbc729c885f9839",
+    "type": "split",
+    "children": [
+      {
+        "id": "0a96f64c30da0c42",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e7f7f2658aaf03da",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "857323435823587c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7beae24e5ab1800d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "bc5aad8a4a64c653",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "8b51a12270573227",
+  "lastOpenFiles": [
+    "Intersession",
+    "New folder",
+    "Untitled",
+    "SOCSCI 12.md",
+    "Modernity Intensifying.md",
+    "Creating the Global Village.md",
+    "Development and the anthropology of modernity.md",
+    "Globalization and the Asia Pacific and South Asia.md",
+    "Locating the Global South.md",
+    "Modernity Expanding.md",
+    "Formations of Modernity.md",
+    "The Cultural Formations of Modern Society.md",
+    "The Enlightenment and the Birth of Social Science.md",
+    "Changing Social Structures Class and Gender.md",
+    "Experiencing and living modernity.md",
+    "One being light and liquid.md",
+    "Modernity Emerging and Rising.md",
+    "Modernity and Inclusive Social Transformation.md",
+    "MATH 60.2.md",
+    "Waste.md",
+    "Ecological Solid Waste Management Act.md",
+    "Sustainable Development.md",
+    "ENVI 10.01.md",
+    "The Atmosphere.md",
+    "Hydrosphere.md",
+    "Large-Sample Tests of Hypothesis.md",
+    "Statistics and Sampling Distributions.md",
+    "Geosphere.md",
+    "Pasted image 20230630163806.png",
+    "Pasted image 20230629160826.png",
+    "Pasted image 20230629155307.png",
+    "Pasted image 20230619144819.png",
+    "Pasted image 20230616120406.png",
+    "Pasted image 20230615164739.png",
+    "Pasted image 20230615154833.png",
+    "Pasted image 20230609162435.png",
+    "Acads",
+    "Untitled.canvas",
+    "DD 2324/Intersession",
+    "DD 2324/Semester 4 1",
+    "DD 2324/Semester 3",
+    "DD 2324/Semester 2",
+    "DD 2324/Semester 1",
+    "DD 2324/Semester 4",
+    "DD 2324"
+  ]
+}
