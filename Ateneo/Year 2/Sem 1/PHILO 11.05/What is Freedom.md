@@ -67,5 +67,4 @@ Hannah Arendt
 * we create a world by reconciling subjectivity and objectivity
 ## The public realm
 * Philippine Plaza
-* the common space allows us to disclose our individuality/[vulnerability]([[Rethinking Vulnerability]])
-* 
+* the common space allows us to disclose our individuality/vulnerability [[Rethinking Vulnerability]]

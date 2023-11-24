@@ -2,5 +2,8 @@
   "accentColor": "",
   "baseFontSize": 24,
   "cssTheme": "Catppuccin",
-  "theme": "moonstone"
+  "theme": "obsidian",
+  "enabledCssSnippets": [
+    "test"
+  ]
 }
