@@ -1,5 +1,1 @@
-# Obsidian specific:
-.obsidian/cache
-.trash/
-.DS_Store
-.obsidian/workspace.json
+.obsidian
