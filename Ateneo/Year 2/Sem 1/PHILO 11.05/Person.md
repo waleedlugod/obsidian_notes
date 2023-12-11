@@ -1,4 +1,4 @@
-Bertrand Russel
+Charles Taylor
 # Lecture
 ## Person as consciousness
 * Descartes: clear separation between internal reality of consciousness and the world outside (not-Self)
