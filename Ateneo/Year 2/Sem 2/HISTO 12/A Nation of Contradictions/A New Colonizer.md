@@ -1,0 +1,7 @@
+The increasing demand for markets of American good encouraged expansion of its territories. Jose Rizal pointed out that the United States might be tempted to take the Philippines from Spain to showcase its newfound strength.
+
+The election of William McKinley in 1896 introduced American imperialism. McKinley hoped to secure US hegemony in the Americas, expand its influence in Asia, and transform the Pacific Ocean into an "American Lake". With US businesses having massive investments in Cuba, and its proximity proved to be a perfect area for exploitation with the outbreak of the Cuban revolution. The US sent warships to Cuba to "protect" them from Spain. One of these warships, the USS Maine, sank due to an accident, but was seen as an assault by Spain, which led to a declaration of war against Spain.
+
+On May 1, 1898, Commodore George Dewey led a fleet to the Philippines to intercept Spanish forces. His victory over the Battle of Manila Bay guarding colony's capital was the perfect opportunity for the resumption of the Revolution. Filipino commanders anticipated Aguinaldo's return, and began reorganizing the Filipino armies to fight the Spaniards.
+
+The Spanish-American War accelerated the resumption of the Philippine Revolution, and the presence of a foreign ally convinced the revolutionaries of victory. Aguinaldo opted to seek an alliance with the US. By May 15, 1898, Aguinaldo return to the Philippines aboard the US warship USS Murloch, and called on the Filipinos to take up arms against Spain two days later.

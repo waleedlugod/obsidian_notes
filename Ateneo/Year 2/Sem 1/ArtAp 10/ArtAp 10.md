@@ -1,0 +1,7 @@
+[[What Is Art]]
+[[The Visual Culture Reader]]
+[[Visual Rhetoric]]
+[[How Art and Politics Influence and Shape Each Other]]
+[[Art is situation in society and social history]]
+[[Composition]]
+[[Final Project]]
