@@ -1,5 +1,5 @@
 # Lectures
-[[The Two Suns]]
+[[(L) The Two Suns]]
 
 # Readings
 [[Inventing the East Asian Race]]

@@ -5,7 +5,7 @@ Initially leadership was middle class, non-ilustrados, but shifted to municipal 
 For wealthy ilustrados, the Katipunan was viewed as a dangerous lower-class movement. To clarify, it was actually a middle-class movement [[How revolutionary was the Philippine Revolution]]; [[Revolutionary Leadership in City and Province]].
 
 After the August 1896 rebellion, wealthy Manila residents were arrested by the Spaniards, implicated by Katipunan leaders. Rizal was executed in December. Many ilustrados spent their time in Spanish jail, while others in exile.
-Leadership struggled with intraclass conflict ([[How revolutionary was the Philippine Revolution]]; [[Propaganda Movement and the Philippine Revolution]]).
+Leadership struggled with intraclass conflict ([[How revolutionary was the Philippine Revolution]]; [[(L) Propaganda Movement and the Philippine Revolution]]).
 Struggle for control over the revolution was resolved with the election of Aguinaldo and the execution of Bonifacio. Leadership was also replaced with rural elites loyal to Aguinaldo.
 
 Spanish troops were unable to defeat Filipinos decisively.

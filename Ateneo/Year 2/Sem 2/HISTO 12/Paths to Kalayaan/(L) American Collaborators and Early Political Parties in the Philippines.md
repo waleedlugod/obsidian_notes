@@ -44,7 +44,7 @@ Americanistas dominated politics
 wanted Philippines to become US state
 Cabera: no clear definition of a filipino; better to pattern comminty of us rising power
 Benito Legardo & Pablo Ocampo: firest resident commissioners
-Gregorio Areneta & Pedro Paterno & Felipe Buencamino: wanted representation in government; inline with the views of the propaganda movement ([[Propaganda Movement and the Philippine Revolution]])
+Gregorio Areneta & Pedro Paterno & Felipe Buencamino: wanted representation in government; inline with the views of the propaganda movement ([[(L) Propaganda Movement and the Philippine Revolution]])
 
 1902-1906
 Partido Federal: statehood

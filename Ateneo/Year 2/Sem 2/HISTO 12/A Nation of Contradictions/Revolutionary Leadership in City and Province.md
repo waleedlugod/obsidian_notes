@@ -32,7 +32,7 @@ Many leadership were principalia or worked for them as secretaries and interpret
 
 # Social structure
 Principalia administered the affairs of each town and outlying settlements. Their origins can be traced to pre-Spanish community leaders whose authority were recognized by colonizers, and utilized as the cornerstone for indirect rule.
-At the bottom of the bereauracy were the cabeza e barangay, and had direct ilnk between the government and people. They had jurisdiction over a barrio, and collected taxes, first as tribute and later as cedula payment. They were in charge of assigning adult males to local public work projects to meet the requirement of rendering 40 days of labor.
+At the bottom of the bereauracy were the cabeza e barangay, and had direct link between the government and people. They had jurisdiction over a barrio, and collected taxes, first as tribute and later as cedula payment. They were in charge of assigning adult males to local public work projects to meet the requirement of rendering 40 days of labor.
 Until 1893, cabezas alone constituted the principalia, and by indirect election, chose one of their own to be a gobernadorcillo, known as capitan municipal after 1890.
 
 Gobernadorcillos supervise and coordinate the work of cabezas on top of additional responsibilities. They were assigned to maintain peace & order; exercise judicial authority in petty cases; administer postal service; upkeep of local jail; provide needs for travellers; and ensure inhabitants had good employment and good Catholics.
@@ -43,7 +43,7 @@ Emilio Aguinaldo was a man of substance who served as a gobernadorcillo multiple
 
 Once the guardia civil has been cleared, the Magdalo council was reorganized as a sub-provincial insurgent government, headed by a cabinet. Bladomero Aguinaldo, cousin of Emilio, was elected as Magdalo president. He attended Ateneo Municipal and UST. 
 
-Candido Tirona (later provoked Andres Bonifacio in Tejeros convention [[Propaganda Movement and the Philippine Revolution]]), one of Aguinaldos' principal associates and chief rival of the Aguinaldos, was acclaimed as Emilio's successor, under revolutionary conditions, as capitan municipal. Tirona was also appointed Minister of War in Magdalo.
+Candido Tirona (later provoked Andres Bonifacio in Tejeros convention [[(L) Propaganda Movement and the Philippine Revolution]]), one of Aguinaldos' principal associates and chief rival of the Aguinaldos, was acclaimed as Emilio's successor, under revolutionary conditions, as capitan municipal. Tirona was also appointed Minister of War in Magdalo.
 
 Vito Belarmino, a third member of the Magdalo Cabinet in addition to Crispulo and Emilio, had experiece of the senior office of pueblo government, having held the post of gobernadorcillo in Silang. Belarmino's formal education was cut short due to outbreaks of cholera. Prior to being a governadorcillo he served as a cabeza and secretary of the tribunal.
 

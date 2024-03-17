@@ -44,7 +44,7 @@ Peasant armies emerged to fight the Republic.
 Rail workers, tobacco workers, and domestic servants fought for their rights.
 Pensacola brothers in Zambales: "it was time for the rich to become poor,and the poor to be rich."
 Peasants groups attacked government offices and burned documents; harassed and attacked tax collectors; squatted on hacienda lands; and set up communes such as the Guardia de Honor or the Santa Iglesia around Pangasinan, Tarlac, and Pampanga.
-Some groups formed new katipunans in the mountains of Sierra Madre, like Macario Sakay. Suviving meant raiding surrounding haciendas for supplies.
+Some groups formed new katipunans in the mountains of Sierra Madre, like Macario Sakay. Surviving meant raiding surrounding haciendas for supplies.
 These groups were seen as a threat to the Republic.
 
 ## Different leadership, same ideals

@@ -17,10 +17,10 @@ The separation occurred due to imperialism, not a native process of structural s
 
 # Malolos: An Overview
 Two drafts were received: Mabini (inspired by Spanish constitution); Pedro Paterno (Spanish constitution as well; actually written by Ricardo Regidor).
-The Spanish constitution of 1869 (considered liberal; product of the Glorious Revolution that deposed Isabella II. Isabella implemented economic reforms in the Philippines [[Propaganda Movement and the Philippine Revolution]]) upheld the principle of a national religion, but permitted other religions.
+The Spanish constitution of 1869 (considered liberal; product of the Glorious Revolution that deposed Isabella II. Isabella implemented economic reforms in the Philippines [[(L) Propaganda Movement and the Philippine Revolution]]) upheld the principle of a national religion, but permitted other religions.
 Mabini's draft declared religious freedom and disavowed any state religion.
 
-Most delegates (according to Calderón) liked Paterno, but disliked Mabini. Mabini acted to present Paterno's draft to Congress, but then prepared a different document, which he claimed to have patterned after the Costa Rica consitution.
+Most delegates (according to Calderón) liked Paterno, but disliked Mabini. Mabini acted to present Paterno's draft to Congress, but then prepared a different document, which he claimed to have patterned after the Costa Rica constiution.
 
 Calderón's draft was submitted and approved with modifications, but not without opposition by "Mabini's partisans" as Calderón refers.
 Debate on religion of Calderón's draft, Title 3, was deferred until last.
@@ -57,7 +57,7 @@ However, Masonry had inspired an imagined community alternative proposed by Tom�
 
 Ilustrados regarded Masonry as a society in oppositions to friars, agents of a political order. Friars were also seen as political agents of the colonial state.
 # Catholicism and the Nationalist Movement
-Calderón's support of church-state unity pays homage to the secularization issue, and the martyrdom of José Burgos, Mariano Gómez, and Jacinto Zamora ([[Propaganda Movement and the Philippine Revolution]]).
+Calderón's support of church-state unity pays homage to the secularization issue, and the martyrdom of José Burgos, Mariano Gómez, and Jacinto Zamora ([[(L) Propaganda Movement and the Philippine Revolution]]).
 Recognizing Catholicism as the state religion, the revolution would pay respect to the pioneers of the nationalism movement, martyrs of secularization.
 He views religious freedom as historically absurd and politically inappropriate for the 
 Philippines.

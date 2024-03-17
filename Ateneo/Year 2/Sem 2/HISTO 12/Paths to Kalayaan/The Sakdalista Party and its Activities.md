@@ -7,7 +7,7 @@ The Supreme Court having declared the Communist party illegal, the Sakdalista se
 ## Establishment of the Party
 The Sakdalista Party announced its platform in the Pamahayag at Patakaran ng Lapiang Sakdalista publication.
 Initially, the movement aimed to expose prevailing corruption and the truth (katotohanan) as well as facilitate the understanding of the reasons (katuwiran) for independence.
-The Sakdalista leadesr realized no politician has worked for Philippine independence soely under the terms set by the Jones Law ([[American Collaborators and Early Political Parties in the Philippines]]), and called the incumbent politicians the "new Federalists."
+The Sakdalista leadesr realized no politician has worked for Philippine independence soely under the terms set by the Jones Law ([[(L) American Collaborators and Early Political Parties in the Philippines]]), and called the incumbent politicians the "new Federalists."
 
 ## Party Emblem
 L. x B. A.-S. F. = Lapian ng Bayan Api, Sangkapuluang Filipinas.
@@ -133,7 +133,7 @@ Those who voted for the party did so for a corruption-free administration that p
 Independence would alleviate distressing social and economic conditions; and bring dignity to Filipinos to enjoy their own culture.
 
 Despite the success of the Sakdalista Party, Quezon still won the overwhelming vote.
-Due to the passage of the Tydings-McDuffie Act ([[Independence Missions and the 1935 Philippine Elections]]), Quezon's "Antis" occupied a majority of the Lower Houses.
+Due to the passage of the Tydings-McDuffie Act ([[(L) Independence Missions and the 1935 Philippine Elections]]), Quezon's "Antis" occupied a majority of the Lower Houses.
 Now a major player of national politics, the party wanted to reposition itself and sever its ties to the "subversive secret organization" of the disbanded Tanggulan Society whom their power originated.
 They also wanted to disassociate themselves from the outlawed Communist Party who they allied themselves with for a time.
 They declared they were neither pro-Communist nor pro-Tanggulan Society, and wanted to present their activities as lawful.
