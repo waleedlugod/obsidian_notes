@@ -6,3 +6,8 @@ Lecture 5: [[(L) Dark Clouds Over a Closed World]]
 [[thing]]
 [[Some Finer Points in Doing Social Analysis]]
 [[Understanding Sin and Grace]]
+[[The Principles of the Catholic Social Teachings]]
+
+# Modules
+[[The Kingdom of God and the Social Mission of the Church]]
+[[The Pastoral Circle]]
