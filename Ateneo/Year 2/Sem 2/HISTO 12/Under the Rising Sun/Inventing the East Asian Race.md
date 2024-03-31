@@ -233,6 +233,152 @@ It was assumed that "the masses" in cities attended move theaters out of their o
 The relationship between the logic of the empire and capitalism were also shaped by two aims: enlightening the public, and attracting them to movie theaters in high numbers.
 The larger objectives, to cultivate "the masses" into "the national populace" and "the East Asian race", and to attract "the masses" into the movie theater, could be achieved regardless for whether the aims were consistent.
 Japan's desire for recognition for its centrality revealed itself in the demands audience discourses made of filmmakers.
-These demands originated in five conflictual tendencies: universalism, culturalism, moderization, the tenant that films were entertainment, and indigenization.
+These demands originated in five conflictual tendencies: universalism, culturalism, modernization, the tenant that films were entertainment, and indigenization.
 
-page 32
+Imamura believed art to be a universalist, transcendental principle.
+He believed, films of high art merit should have been able to attract people of any cultural background to the movie theater and enlighten them.
+Imamaura aimed to accommodate both the logic of the market, to promote film consumption by virtue of the cinema's appeal, and the logic of the empire, to enlighten people in occupied territories.
+However, Imamura's idea of "art" was idiosyncratic given his liking towards nazi films, and none of the "national films" selected for the Information Bureau Award in 1941 and 1942 accomplished the feat of being both commercially successful and enlightening audiences.
+An article in the film magazine Kinema junpō suggested that although "national films" were artistically excellent, it was common sense to anticipate their failure in occupied areas.
+
+Such notions of universalism were in tension with culturalism, which emphasized Japanese culture as traditional and distinctive.
+Critics such as Hasegawa Nyozekan advocated for Japanese self-sufficiency; for preserving its uniqueness and preventing the influence of foreign culture.
+When questioned how Japanese films would penetrate "the Greater East Asia Co-Prosperity Sphere," conflicts between an idealistic notion—that Japanese culture should be universally accepted—and a more realistic one—that it should be accepted on its own terms—surfaced.
+Overall, critics, bureaucrats, and industry personnel abandoned idealism and became more realistic.
+Discourse suggested that Japanese films were perceived as limited in their capacity to convey a sense of Japan proper's privileged status over the occupied areas.
+There was also anxiety for a possible reversal of this hierarchy.
+
+Modernism tended to be prioritized over culturalism.
+Pieces published in the film magazine Eiga junpō frequently argued that films should demonstrate Japanese economic power, and make spectacles of technologies.
+Many argued that "the dignity of Japan" should be portrayed through "militarily powerful films."
+In discourses, a logic operated that modernization was a vehicle of the superior-inferior relationship between the ruler and the ruled.
+The superiority of Japan was expressed in terms of its evolution by means of spectacular modern icons, and its centrality expressed in terms of the dimensions of the empire.
+Discussions that mentioned "Japanese customs" often meant a modernized way of life rather than "traditional culture."
+In Manchukuo, there was a prevailing notion that the advancement of national integration should be based on highly capitalistic culture than of Japanese culture.
+However, universalist ideas of "high" art and culturalist notions of Japan were mere idealism and made little impression on wider society.
+Modernist ideas were perceived as somewhat effective, and provided a point of intersection between the logic of the empire and capitalism that underpinned modernization.
+
+Logics of the empire and capitalism were not always symbiotic.
+These ideas clashed in the discourse that cinema must entertain above all else.
+Film's obligation to entertain does not necessarily accommodate Japan's mission to mobilize an "East Asian race" centered on Japan.
+Discourses in Manchukuo put aside cinema's purpose as propaganda while arguing cinema's marketability was its primary objective.
+
+From the 1920s onward, discourse on "popular entertainment" advocated leading people by means of entertainment, to support the political regime voluntarily without making them feel coerced.
+Discussion also went as far as to ignore cinema's efficacy as propaganda altogether and focused exclusively on what kinds of film should be made to attract people.
+The notion of film as entertainment constrained the logic of the empire.
+Although some films may be highly popular films, critics deem some to be unsuitable to distribute within "the East Asian Co-Prosperity Sphere" as they created ambivalence.
+However, comedies which contained "little trace of national policy propaganda" were screened to alleviate uneasiness about Japanese dominance.
+Yet, such screenings provoked an anxiety in the Japanese that they were despised by occupied areas.
+The logic of the empire and capitalism often clashed.
+However, discourses did not refute capitalism completely nor acknowledge the contradictory notions, but rather sought to accommodate both.
+
+Some recommended that films be indigenized to attract audiences.
+Benshi provided a means to attract local audiences.
+Benshi had the potential to weave anti-imperial insinuations into performances.
+The empire's discourse considered benshi to be an effective means to make Japanese films acceptable to local populations, however, much of this discourse assumed the logic of the empire and capitalism were consistent.
+While the problem of making films acceptable to indigenous audiences were a primary cause for concern, how films might contribute to the mobilization system was regarded as self-evident and not discussed.
+In movie theaters in Korea, radio announcements from the government office were broadcast during intervals between screenings, and exhibitors were obliged to interrupt screenings to allow patrons to pray silently to the emperor each day at noon.
+
+Various operations of cinema ran according to capitalist principles, from production and representation to distribution and exhibition.
+The system of mobilization through cinema followed suit, despite standing somewhat in opposition to capitalist principles.
+People also voluntarily paid to watch films.
+Capitalist principles underpinned their mobilization into "the East Asian race" and into participating in a war to support the empire.
+
+# Beyond Capitalism
+The government did not envision capitalism placing constraints on public policy, but rather, policy sought to extend the mobilization system beyond the capitalist hubs to the outskirts of cities.
+Such policy mainly addressed ethnic minorities and those living in provincial areas where private companies did not find it easy to pursue profit, or there were no movie theaters.
+It also targeted cities who could not afford to go or were not in the habit of going to the movie theater.
+Public policy intended to expand the mobilization system by operating in areas capitalism could not reach.
+Policy aimed to eliminate inequalities between Japan proper and occupied areas, contradictory to the notion of the centrality of Japan.
+
+It was necessary to overcome educational disparities to expand accessibility to movie theaters.
+Two issues regarding this were notable: cinema has the potential to be understood regardless of level of literacy, and the use of benshi rendered educational levels less critical to the audience comprehension; and high levels of education, greater take-up of capitalism, and modernization seem to correlation with frequent attendance.
+Critics considered colonized areas to be behind in Japan proper's modernization and education, holding this responsible for the relative paucity of attendance.
+Some critics argued that effort should be made to steer students and members of various groups towards movie theaters, or towards holding their screenings, through putting on screenings, rather than rely on people's voluntary consumption.
+
+Eliminating disparities around access to movie theaters depended on addressing inequalities between urban and provincial areas, which can be summed up as differences in education.
+It was a commonly held view in Japan proper that disparities should be improved through the wider dissemination of film via traveling screenings.
+Several film companies conducted traveling screenings, but in Korea and Taiwan, this was provided by non-profit governmental and intermediate organizations.
+It was envisioned that cinema would create an environment to encourage Korean people to become "imperial subjects" that same way schools, religion, language, broadcasting, publications, theaters, music, art, dance, and physical education did.
+Film was envisioned to be integrated into people's everyday lives, overcoming differences in education, class, or origin so anyone can join "the East Asian race."
+
+Making this vision of traveling screens a reality was difficult.
+A spokesperson for the North China Film Company reported in 1941 that the company only runs three circuits because each costs about 30,000 yen to operate.
+Traveling to Manchukuo was reported as extremely difficult as roads were poor.
+In the Southern Region, issues arose regarding transporting materials, diverse background of audiences, and a territory too vast to cover.
+The idea of forming a mobilization system through cinema was fundamentally contradictory as the formation of "the East Asian race" was not underpinned by an assumption of eventual equality.
+Even though cinema tried to improve disparities, it did not shift them.
+Homi Bhabha's concept of mimicry suggested that when the occupied mimicked the occupiers, a sense was produced that power imbalances were simply redressed, which might pose a threat to the occupier.
+Discourse on audiences did not entertain the possibility of granting all parties equal political rights for the sake of mobilization.
+
+Within the Japanese empire, discourse on audiences promoted a system of mobilization that would serve the total war regime.
+It included critical remarks on "liberalism" and "materialism" despite the fact that this system was built in capitalism, evident in all aspects o contemporary film, from its industrial sectors and institutional practices (production, distribution, exhibition, and promotion), to its representational practices, to its forms o exhibition, and in the nature of cinema itself.
+Public policy served to strengthen this capitalistic system advocating, and executing, screenings for groups and traveling screenings, which aimed to eliminate disparities in education between urban and provincial areas.
+Surrounding audience discourse often accommodated opposing ideas, but nonetheless took the centrality of Japan for granted.
+
+# The Post-Empire: Oblivion and Fantasy
+Cinema audiences were held as a significant conduit for the formation of "the East Asian race."
+This is a fantasy woven from idealizing and contradictory tendencies, and the disavowal of such contradictions.
+"The East Asian race" was envisioned to be transcending geographical, racial, cultural, and historical differences within the empire while acknowledging disparities in education and class between Japan proper and the rest o the empire, and distinctions between occupied areas.
+Such inconsistencies were overlooked along with gender imbalances.
+"The East Asian race" was required to drive its own formation, however, how the fantasy would translate into institutional practices remained not discussed.
+Discourse that proposed mobilizing cinema audiences proposed a structure to realize the fantasy, yet, simultaneously disavowed a lack of integration caused by the way practices and languages varied.
+
+By the wake of their defeat in WWII, the policy of mobilizing "the East Asian race" was abandoned.
+The territory of Japan was reduced to the Japanese archipelago, and indirectly ruled by the Supreme Commander for the Allied Powers/General Headquarters.
+After April 28, 1952, when the occupation by SCAP/GHQ ended, the San Francisco Treaty (between Japan and the Allied Powers) designated Japan's territory with some exceptions, later returned (Ogasawara Islands by 1968, and Okinawa by 1972).
+The treaty was somewhat vaguely defined, leading to territorial disputes.
+The previously occupied areas became areas of the countries to which they were returned.
+
+Because the demarcation between "internal" and "external" to "the national populace" was both ambiguous and strict, those from the colonies were included and marginalized.
+Under the jus sanguinis-based family register system, all colonized areas were strictly distinguished from those from Japan proper.
+However, colonized Taiwan, Sakhalin (Karafuto), and Korea were "granted Japanese nationality."
+The framework of "the national populace" was itself ambiguous in discourse.
+Self-defined members of "the national populace" from the colonies clearly suffered discrimination regarding suffrage, family registration, and military service, and related legal provisions.
+Efforts among colonized peoples to compete to be recognized as belonging to the "national populace" enhanced the imagined concept as a whole.
+While notions of its homogeneity and egalitarian nature were idealized as a norm, its negative aspects were not questioned.
+
+This structure, and its conflicts, continued in various forms since the end of the war.
+Men from former colonies lost their voting rights in December 1945, and, regardless of gender, no longer allowed to avail themselves of Japanese citizenship, and subject to the restrictions imposed by jus sanguinis.
+In other words, people from the former colonies were excluded from the constitutional framework as "foreigners" and deprived of their right to belong to the "Japanese national populace."
+For Koreans living in Japan, the Japanese Nationality Law, based on jus sanguinis, does not allow dual nationality, so they must choose one and relinquish the other.
+Such a strict setting of the legal boundary of "the national populace" caused Korean residents turmoil.
+Residents of several generations had increasingly mixed identities and have often been called "post-zainichi."
+
+In terms of modern history, scholars argued that the past of the empire has been obliterated in postwar Japan.
+While various events were held to maintain the memory of WWII, few events were held to preserve memories of the empire.
+In cultural discourse, the prevailing tendency has been to represent Japan as victims of war.
+Erasure of the empire from Japan's public memory was encouraged by the fact that the Constitution of Japan was celebrated for pacifism and democracy, while high economic growth ensured the spread of consumer culture.
+Reports of former soldiers and residents returning to Japan from colonies, and war-displaced orphans tended to be stereotyped as objects of pity.
+
+In the 1980s, people moved to reflect upon the past.
+Primer Minister Nakasone Yasuhiro visited the Yasukuni Shrine in 1985, democratization movements began in Korea and Taiwan, Cold War structures started to collapse in 1989, and voices from former colonies called public attention to comfort women, the Nanjing Incident, visits to Yasukuni Shrine by Japanese officials, and territorial disputes.
+Scholarship on Japanese imperialism thrived.
+Revisionist arguments about Japanese history regarded Japan as a victim.
+While liberal critical discourse contrasted "postwar" pacifism to "prewar and wartime" violence, conservative organizations such as the Japan Conference emphasize pacifism as an attribute of the emperor-state while ignoring the violence perpetrated.
+
+Hypothesis: the empires violent and aggressive nature has never been fully recognized because it was not publicly perceived even before the end of WWII.
+The disavowal of such issues created the impression that all areas equally and spontaneously participated in upholding the empire, rather than forcibly.
+Three conditions of "postwar" Japan served the foundation of the fantasy of the empire and its continuation: the question left by the re-imagined national framework regarding the geopolitics of East Asia after WWII; the patronage of the US to form "postwar" Japan; and Japan's rapid economic growth.
+The "postwar" Japan of a peaceful, affluent country created with the support of the US, is contrasted with the "postwar" of other Asian countries.
+Korean and Vietnam wars were regarded as "external" events by most Japanese, despite the economic benefits they brought.
+The Japanese empire has also been remembered differently across the range of its constituents, including across gender, class, ethnic, and generational boundaries.
+People who shared circumstances across regional boundaries can have similar memories, both intricate and shared.
+In Japan, it was taken for granted that memories are determined by territory.
+
+After conceding defeat in WWII, Japan's own territories was determined as part of both the Postdam Declaration and the San Francisco Treaty, and colonized areas were relinquished at the orders of the US, rather than the request of their inhabitants.
+Regions part of the empire were reorganized according to an East-West framework determined by the Cold War's restructuring of geopolitical relations.
+Only a few became nation-states, including the Philippines, which all saw a rise of militaristic nationalism.
+Cinema continued to serve their respective populations during the occupation period.
+Japan was able to enjoy peace and economic growth without much protest from the former colonies until the collapse of the Cold War regime in 1989.
+
+Supported by the US, Japan achieved rapid economic growth.
+This made it easy of the Japanese to adopt a self-centered perspective on equal footing with the West, while their Asian neighbors were comparatively behind.
+Japan's predominance became a logical source of economic guidance or intervention from other countries.
+The legacy of "the East Asian race" and its tendency to take Japanese centrality for granted transposed to the business arena.
+Nonetheless, the Japanese tended to establish friendly relations with their Asian neighbors.
+
+No policy of mobilizing Asian peoples for one purpose has since been formulated.
+Cinema audiences has ceased to be regarded as a means to conceive such goals.
+With the acceleration of globalization, it was difficult for Japan to enjoy its privileged economic status, and friction sparked over past events, territorial disputes, and labor issues.
+Academic reappraisals of Japanese history of the empire helped resurrection iteration of its fantasy during the prewar and wartime periods, which was based on a dichotomous, pro vs anti-Japanese view.
