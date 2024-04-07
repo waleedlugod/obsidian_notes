@@ -87,3 +87,71 @@ The Philippine Economy in the 1950s was in the process of decolonization.
 The US made postwar rehabilitation aid contingent on the signing of the infamous Bell Trade Act which limited Philippine exports to the US, denied the Philippines tariff and currency autonomy, and granted special economic privileges to American investors and traders..
 Although modified in 1955, the new treaty maintained parity rights for American businessmen in the Philippines, causing massive trade deficits.
 Demand for rehabilitation and consumer goods were high, but there was little to produce either for local consumption or for export.
+Importers, ninety percent of whom were American, greatly benefited.
+By the end of the decade, export earnings amounted to less than 10 percent of the country's income, which remained almost entirely agricultural.
+
+Manufacturing employed very little of the labor force, and rural productivity was in decline.
+
+The foundation of the Central Bank in 1949 was a symbol of nationalism and modernity rooted in financial independence via the emerging mandarin class.
+The Central Bank and the National Economic Council were both possible loci for economic planning.
+The NEC could be used to articulate alternative views, but was subjected to congressional interference due to its membership consisting of Congressmen and presidential appointees.
+
+The 1950s was still a relatively high point for economic debates within the bureaucracy.
+The dramatic increase of the government's powers due to its implementation of import and exchange controls allowed for the entry of technocrats.
+
+The hostile intensity of the debate was due to the bureaucracy's lack of training in a time when economics profession in the Philippines was in its infancy.
+The relevance of economics as a discipline as distinct from lawyers, businessmen, journalists, and other "practical men" was unclear.
+
+# Putting Money to Work
+The Great Debate began during Araneta's position in the Quirino government, when he started to critique the deflationary policies of the Central Bank.
+During the Magsaysay administration, the debate played out within the government.
+Araneta later resigned from the Magsaysay administration due to the rejection of ideas.
+
+Cuaderno remained governor of the Central Bank, and succeeded in maintaining the foreign exchange control policy in the Garcia administration.
+
+Araneta argued for targeted spending to boost agricultural and industrial production; called for a devaluation of the peso; and advocated full employment.
+
+In 1952, Araneta called for a New Deal for the Philippines that would prioritize agricultural production and the creation of a stronger industrial base.
+He wanted credit for land resettlement, the construction of road in undeveloped areas, the establishment of heavy industry, and the immediate parceling of landed estates.
+He argued that deficit spending would boost economic activity and reduce unemployment.
+
+The advocacy for the devalued peso was premised on a concern that the Philippines was becoming import-dependent.
+At a rate of two pesos to one dollar, it was cheap for Filipinos to import from the US.
+To limit import, the Central Bank controlled the amount of dollars importers could access to buy foreign goods.
+
+Limiting of dollars was a form of import control was distinct from exchange control.
+The first form of control was the currency peg of two pesos to one dollar, which made imports cheaper, increasing incentive to import.
+The other form of control limited the dollar supply that importers could access, decreasing their capacity to import.
+Both forms of controls existed at the same time.
+
+Araneta consistently sought to aid exporters.
+He supported limiting dollars for imports and depreciating the peso, but believed that limiting the dollar was unwieldy in the hands of Miguel Cuaderno.
+He criticized the Central Bank for its mismanagement of the allocation of dollars, believing that it should be reserved for industrialists to import raw materials and machinery.
+Araneta argued that the government needed to reduce their prices through a devalued peso, allowing Philippine products to compete in the world market.
+Since the US would start increasing its duties on Philippine products through the removal of preferential tariffs in 1956, the Philippines needed to make its products cheaper in the American market.
+He also argued that overvaluing the peso would amount to a conceal tax on exports and therefore on production and laborers as they would receive more if the peso were cheaper.
+
+For Araneta, economics was a tool for social justice, and national progress was better judged through employment rather than production.
+He argued that national production is only a measuring tool to determine if the national output is adequate to provide for the needs of the people, but should not be the main objective.
+This was an integral part of his vision of a Christian Democracy in the Philippines; employment was essential to human dignity.
+
+The key ingredient for employment was credit.
+Araneta believed that unemployment could be solved through government support.
+
+The Central Bank's deflationary policies created great unemployment in the 1950s.
+
+The three prongs of Araneta's economic policy was geared towards industrialization.
+Claro M. Recto was one of Araneta's main allies.
+Both Recto and Araneta argued that the US opposed Philippine industrialization to continue their dominance in the Philippine market.
+The expensive peso encouraged Filipino businesses to import from America, making it dependent on American industry, while the lack of credit for heavy industry ensured that the Philippines would remain an agricultural economy.
+
+Araneta also became aware of developments in the science of economic planning in Europe and the US.
+Araneta argued for a participation in a global modernity that allowed individual and states to realize equal opportunity, which is at the core of democracy.
+Araneta contended that industrialization could not be restricted to the elite nations, and that agricultural economies must become the exception rather than the rule.
+
+Comparison with other nations was key to Araneta's nationalist internationlism.
+
+By the 1960s, Aranetas was referencing not only Western Europe but also the emergent developmental state in Japan.
+Araneta explained that unlike Japan, Filipinos did not spend their postwar American aid to set up industries, resulting in feeble industries.
+
+# Inflation Rhetoric and a False Economic Populism
