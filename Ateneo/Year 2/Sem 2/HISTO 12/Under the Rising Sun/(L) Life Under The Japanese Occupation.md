@@ -106,3 +106,17 @@ show discipline bodies of filipinos
 constabulary joined the japanese
 
 secret of police of japanese to weed out dissidents in the government
+
+contradition in language: use of english for filipino propaganda
+
+constabulary seen as a repressive institution
+wanted to end the institution during the Commonwealth but lasted into Marcos era
+
+Tried to join resistance against western colonization
+
+## Comic strip narratives
+Issue of profiteering by Filipino businesses
+
+Japanese encourage to return to province since lots of Filipinos in the city, causing difficulties managing the urban population.
+Encourage Filipinos to embrace farming as it has important cultural meanings.
+Promote idea that Philippines is inherently agricultural.
