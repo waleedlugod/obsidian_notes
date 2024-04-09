@@ -106,3 +106,42 @@ Manuel Rey Isip, a Filipino commercial artist in Hollywood, was asked to paint a
 The poster was distributed in the US to rekindle the Philippine memory.
 
 # Conclusion
+Various powers in the Philippines during WWII and the Japanese Occupation all realized the value of visual propaganda to win the loyalties of the Filipino people and motivate them to act.
+The Commonwealth government issued notices and advertisements for food and air raid precautions, as well as patriotic appeals.
+The Philippine press reflected the Filipino anger, desire to fight, as well as mobilizing them to the war effort.
+The war was seen as being similar to the revolution against Spain in 1986, and images from that uprising were combined with the present.
+
+The Japanese Propaganda Corps prepared leaflets before the invasion, which were brought ashore its members who accompanied the landing forces.
+These leaflets followed propaganda lines for Greater East Asia, and presented the Japanese as friends and Americans as the true enemies.
+When Filipino soldiers fought the Japanese, and those in occupied areas kept sympathies towards the US and Philippine forces, the Japanese sent propaganda to civilians, urging them to return to cities since peace had been restored.
+The Propaganda Corps urged the Filipino soldiers to surrender to the Japanese, who promised fair treatment.
+The Japanese then tried to undermine morale by using sex appeal, or by appealing to the hunger of starving soldiers.
+These leaflets failed since under Japanese actions, surrender resulted in torture or death.
+
+After the fall of Corregidor and the end of organized resistance in May 1942, the Propaganda Corps became the Department of Information.
+They showed images displaying Japanese strength and the unity of Asia contrasted with illustration showing Uncle Sam as evil.
+Posters encouraged Filipino nationalism.
+The reality presented in the Japanese posters clashed with the realities the Filipinos faced.
+Few took the posters seriously.
+
+Under the Japanese, a Filipino bureaucracy created its own information agency and printed its own leaflets.
+They emphasized love of country, highlighting revolutionary heroes against Spain, which were censored by the Japanese.
+The inauguration of the Japanese-sponsored Philippine Republic in 1943 continued this line of visual propaganda.
+Conditions in 1943 and 1944 grew worse, and the Laurel government campaigned for food production and mandatory labor.
+Few had faith in the government.
+
+More successful were images put out by the anti-Japanese resistance movement, which showed Japanese behavior in the country and exposed the weakness of the Republic.
+Despite shortages in paper, ink, and the threat of Japanese punishment, guerrilla leaflets were well circulated.
+
+MacArthur recognized the importance of images to evoke loyalty to the US.
+Cigarettes, chewing gum, and other articles were printed with MacArthur's image and his promise to return.
+These items were cherished and people risked their lives to keep them.
+
+Most Japanese leaflets and propaganda items were discarded.
+
+Symbols were used by the Filipino, Japanese, and Americans to represent their ideals: the 1896 Revolution monument was used to stress patriotism.
+The Philippine flag was also used: the Japanese placed it next to the Japanese flag, and the US used the same tactic.
+Demonizing the other side as common: the Japanese caricatured the Americans as anti-Filipino, cowardly, and indiscriminate purveyors of destruction; and Filipino guerrillas portrayed the Japanese as looters, rapists, and liars.
+All sides used maps to depict the progress of the war.
+Although guerrilla propaganda was more crude than of the Japanese, they were more successful as they related more to the Filipinos' own experiences, while the Japanese's contrasted their daily lives.
+Propaganda succeeds if its is believable and conforms to what the audience experiences.
