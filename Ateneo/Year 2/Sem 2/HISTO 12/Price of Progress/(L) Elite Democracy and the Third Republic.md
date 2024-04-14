@@ -76,7 +76,7 @@ Article II:
 	In order more effectively to achieve the objective of this Treaty, the Parties separately and jointly by self-help and mutual aid will maintain and develop their individual and collective capacity to resist armed attack.
 Article IV:
 	Each Party recognizes that an armed attack in the Pacific area on either of the Parties would be dangerous to its own peace and safety and declares that it would act to meet the common dangers in accordance with its constitutional processes.
-	ajsdkf
+	missing info
 Article V:
 	For the purpose of Article IV, an armed attack on either of the Parties is deemed to include an armed  attack on the metropolitan territory of either of the Parties, or on the Island territories under its jurisdiction in the Pacific Ocean, its armed forces, public vessels or aircraft in the Pacific.
 
