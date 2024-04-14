@@ -29,7 +29,7 @@ client: kasama; must remain loyal to patron
 Patronage: clientelism in politics
 
 increase in unrest due to more capitalistic values introduced from American colonialism
-[[The Huk Rebellion]]
+[[The Huk Rebellion - Origins of Rebellion]]
 
 reciprocal relations: cultural, bounded by social contract not written contract
 capitalistic relations: written contract

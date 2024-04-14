@@ -9,7 +9,7 @@
 # Readings
 [[Ilustrado-American Politics in Manila and the Partido Federal]]
 [[Guardia De Honor]]
-[[The Huk Rebellion]]
+[[The Huk Rebellion - Origins of Rebellion]]
 [[The Sakdalista Party and its Activities]]
 [[Quezon's Role in Philippine Independence]]
 [[The Myth of "Pistaym" Prosperity]]
