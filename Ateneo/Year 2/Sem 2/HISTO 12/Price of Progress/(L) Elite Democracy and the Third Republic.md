@@ -14,7 +14,7 @@ Election during Garcia had three main candidates
 # Vice presidential elections
 Elidio Quirino (Liberal), Fernando Lopez (Liberal), Carlos Garcia (Nacionalista), Diosdado Macapagal (Liberal), Emmanuel Pelaez (Liberal), Fernando Lopez (Nacionalista)
 
-Lopez combined bussiness with politics
+Lopez combined business with politics
 Quirino sold ABS to the Lopez family, CBN, to combine the networks, to convince to join as running mate
 
 Jose Laurel Jr. and Sergio Osmena Jr. also ran
@@ -36,7 +36,8 @@ Philippine Trade Act 1946:
 
 Laurel-Langley Agreement of 1955:
 * US lost control over the peso-dollar exchange rate
-* Philippine goods smth
+* Philippine goods were given preferential tariff rates
+* American parity rights remain
 
 Fiscal policy: revenue and expenditure; government (Finance department)
 Monetary policy: circulating money; Central Bank
@@ -76,7 +77,7 @@ Article II:
 	In order more effectively to achieve the objective of this Treaty, the Parties separately and jointly by self-help and mutual aid will maintain and develop their individual and collective capacity to resist armed attack.
 Article IV:
 	Each Party recognizes that an armed attack in the Pacific area on either of the Parties would be dangerous to its own peace and safety and declares that it would act to meet the common dangers in accordance with its constitutional processes.
-	missing info
+	Any such armed attack and all measures taken as a result thereof shall be immediately reported to the Security Council of the United Nations. Such measures shall be terminated when the Security Council has taken the measures necessary to restore and maintain international peace and security.
 Article V:
 	For the purpose of Article IV, an armed attack on either of the Parties is deemed to include an armed  attack on the metropolitan territory of either of the Parties, or on the Island territories under its jurisdiction in the Pacific Ocean, its armed forces, public vessels or aircraft in the Pacific.
 

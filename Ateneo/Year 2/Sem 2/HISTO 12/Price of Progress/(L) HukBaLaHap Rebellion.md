@@ -22,15 +22,14 @@ Nacionalista, PKP (Jesus Lava), HMB
 Roxas was a Japanese collaborator and was part a powerful landowning clan, so there was hostilities with the Huks when he won the 1946 elections.
 
 1945: Luis Taruc and other Huk leaders are arrested. They are released in September 1945.
-1946: jaksd;f
+1946: Presidential Elections. Huks supported Osmena's presidential bid. Roxas won. Huks allies in Congress are disqualified by the Roxas administration. Juan Feleo assassinated. Huk Rebellion began.
 Huks were denied their seats, despite winning their elections, so Huks negotiated.
 
 Taruc's conditions to submit to the state:
 1. The right of every citizen to keep and bear arms should, for the present, be recognized
 2. All private armed groups should be disbanded and every member should register his firearm
 3. But in the transition period, to protect the barrio people from the depredations fo any armed bands, every barrio should be permitted to form self-defense units
-4. All charges against members of the Huk and other guerrilla organizations for actions take in the collective interest during the Jap regime and up to the present should be discarded
-missing info
+4. All charges against members of the Huk and other guerrilla organizations for actions take in the collective interest during the Jap regime and up to the present should be dismissed
 5. All anti-peasant local officials should be removed and replaced by at least impartial elements
 6. So as to enable the masses of Central Luzon  to voice their needs an their feeling in the democratic way, all their Congressmen should be seated
 7. The constitutional liberties of individuals which have been arbitrarily abolished by local officials should be restored, while all ordinances which nullify these liberties should immediately be declared null and void
