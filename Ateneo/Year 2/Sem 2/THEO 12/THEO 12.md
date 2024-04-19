@@ -8,6 +8,8 @@ Lecture 5: [[(L) Dark Clouds Over a Closed World]]
 [[Understanding Sin and Grace]]
 [[The Principles of the Catholic Social Teachings]]
 [[Why Should We Care for Human Rights]]
+[[Social Justice and the Scripture]]
+[[Justice in the World (1971)]]
 
 # Modules
 [[The Kingdom of God and the Social Mission of the Church]]
