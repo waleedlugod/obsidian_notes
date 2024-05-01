@@ -4,7 +4,7 @@
 [[(L) Popes and Patriots Resistance to American Colonialism]]
 [[(L) Peasant Unrest and Calls for Immediate Independence]]
 [[(L) Independence Missions and the 1935 Philippine Elections]]
-[[(L) The Myth of "Pistaym"]]
+[[(L) The Myth of Pistaym]]
 
 # Readings
 [[Ilustrado-American Politics in Manila and the Partido Federal]]
