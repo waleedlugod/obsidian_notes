@@ -22,3 +22,24 @@ They ghostwrote for Marcos
 
 Presenting image of the Philippines as a modern nation
 Used loans from Japan, called Marcos scandal in Japan, caused Japan to change laws to have stricter loan laws
+
+Economic development
+Japan and US funded the Philippines
+US supported Marcos through bilateral and multilateral loans. US wanted to endure the stability of the Philippines to protect its bases and interest in Southeast Asia
+Technocrats provide technical knowledge about industrialization, and gave legitimacy to the Marcos regime by implying it to be a developmental state
+
+Infrastructure programs to develop the arts
+Edifice complex: tendency of the Marcos regime to build infrastructure and embed their image
+Not focused on economic activity but for political reasons
+
+By 1980s, debt grew rapidly
+Underdevelopment of industries lead to extreme poverty: Negros famine
+
+Opposition
+Revolutionary opposition: Moro Secessionists (MNLF, MILF); CPP-NPA; Rebels in the Cordilleras
+Legal Opposition: members of the old political elites that formed small political parties (LABAN of Ninoy, UNIDO of Doy Laurel)
+Religious oppositin: CNL and Radicla Prists and Pastors; Roman Catholic Church after the appointment of Jaime Cardinal Sin as archbishop of Manila
+
+Macli-ing Dulag
+
+Increase of military budget

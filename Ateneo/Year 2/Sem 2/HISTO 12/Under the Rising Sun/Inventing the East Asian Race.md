@@ -4,7 +4,7 @@ Hideaki Fujiki
 Through the 1930s and 1940s, cinema discussed the formation of the Japanese empire.
 It began with Japan's acquisition of Taiwan from the Qing Dynasty after the Sino-Japanese War in 1895.
 The empire later then acquired Southern Sakhalin from Russia in 1905, the Kwantang Territory from Qing, the annexation of Korea in 1910, and the assumption of the mandated administration of the South Sea Islands from the League of Nations.
-They expansion acceleration with the Manchurian INcident in 1931, the Sino-Japanese War in 1937, the Pearl Harbor attack in 1941, and its invasions of Malaya and the Philippines.
+They expansion acceleration with the Manchurian Incident in 1931, the Sino-Japanese War in 1937, the Pearl Harbor attack in 1941, and its invasions of Malaya and the Philippines.
 Cinema was a means to form entities in different territories: the national populace in Japan proper and Manchukuo; the national populace and the imperial subject in Korea and Taiwan; and the East Asian race in the territories called the "Greater East Asia Co-Properity Sphere".
 Cinema was a means for the entire Japanese empire to become subjects of the emperor-centered state voluntarily and spontaneously.
 
@@ -30,7 +30,7 @@ This mobilization system had crucial ties to capitalism.
 A large number of people were perceived to attend movie theaters in Tokyo, Osaka, Keijo (Seoul), Taipei, Shanghai, Xingjing (Changchun), Fengtian (Shenyang), and other cities.
 Cinema-goers were equated with "the masses" that emerged from capitalism and consumer culture.
 Film writers aimed to cultivate "the masses" into Japan's "national populace".
-They also proposed incorperating the "new audiences", those outside the framework of capitalism and not within "the masses" such as provincial residents and minorities.
+They also proposed incorporating the "new audiences", those outside the framework of capitalism and not within "the masses" such as provincial residents and minorities.
 In parallel with the discussions of "the Greater East Asian Co-Prosperity", bureaucrats and critics criticized capitalism and modernism on the grounds they originated from the West, yet at the same time utilizing them for their own purposes.
 The mobilization system of "the East Asian race" was not recognized as the fantasy it was.
 "The East Asian race" was affected by issues identity to those of "the national populace".

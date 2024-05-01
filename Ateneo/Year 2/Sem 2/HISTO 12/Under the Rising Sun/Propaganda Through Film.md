@@ -42,7 +42,7 @@ American prisoners of war were forced to appear in the movie.
 
 Also known as Down with That Flag, Liwayway ng Kalayaan, and Dwon with the Stars and Stripes.
 The Japanese title Ano Hata o Ute is said to be based on a symbolic incident during the battle of Corregidor.
-The US Flag was show down after twenty-four days of attack.
+The US Flag was shot down after twenty-four days of attack.
 
 # A Filipino's View of Japanese Films
 ABL Rosales noted that women and love were common topics in Filipino films.
