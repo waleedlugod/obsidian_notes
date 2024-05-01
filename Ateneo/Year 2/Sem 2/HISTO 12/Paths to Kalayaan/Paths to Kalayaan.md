@@ -12,4 +12,4 @@
 [[The Huk Rebellion - Origins of Rebellion]]
 [[The Sakdalista Party and its Activities]]
 [[Quezon's Role in Philippine Independence]]
-[[The Myth of "Pistaym" Prosperity]]
+[[The Myth of Pistaym Prosperity]]
