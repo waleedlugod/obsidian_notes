@@ -1,5 +1,5 @@
 # Lectures
-Lecture 1: [[Introduction]]
+Lecture 1: [[Ateneo/Year 2/Sem 2/THEO 12/Introduction]]
 Lecture 2/3: [[Social Reality]]
 Lecture 3/4: [[Social Analysis]]
 Lecture 5: [[(L) Dark Clouds Over a Closed World]]

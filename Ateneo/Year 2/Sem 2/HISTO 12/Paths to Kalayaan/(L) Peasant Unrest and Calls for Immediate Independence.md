@@ -86,7 +86,7 @@ isabelo delos reyes established first union
 
 
 union obrera democratica
-dived into congreso obrer de filipinoasand union de smth msth
+dived into congreso obrer de filipinoasand union de missing info
 
 crisanto evaneglista
 1.

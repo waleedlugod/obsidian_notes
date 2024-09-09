@@ -7,7 +7,7 @@ Remnants of the First Philippine Republic:
 miguel malvar
 AGuinaldo's succesor
 by vitue on law of succession of teh first phiilppine republic, the highest ranking officer of the armed forces will be president if the president an vice presidnet cannot assume duty
-Migual Malvar smth smth
+Migual Malvar missing info
 Malvar served as commander-in-chief
 americans used schorched earht tactics against malvar focing him to surrender after one year
 severla historians consider Malvar as the second president
@@ -61,8 +61,7 @@ colorum; guardia de honor; santa iglesia
 
 guardia de honor
 established by dominican friars to proted Virgon of Manaong
-smth
-smth
+missing info
 militarized guardia raided haciendas. Malolos and America tried to suppress the group
 Baltazar was the leader claiming to be God Almighty
 Americans crushed the Guardia and dismembered Baltazar and massacred Cabaruan
