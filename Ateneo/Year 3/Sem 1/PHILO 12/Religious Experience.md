@@ -24,6 +24,8 @@ To take an experience as religious means that the experiencers believe that a na
 Religious experience is the root of religion.
 Because of the unexplainable, we believe in religion.
 
+Divine is something unmeasurable and unexplainable. It creates wonder. Mystical.
+
 The *static* dimension are the *doctrines*, *moral codes*, and *rituals*.
 The static arises from the experience of the divine.
 
@@ -97,7 +99,7 @@ Reaction to the objections:
 2. If believers thought that their religious experience lacked ultimate reference (noetic and objective bases) then it may be doubted whether they would be adequately motivated to live religiously
 	1. one does not risk their life for something they have no knowledge
 3. Arrogant presumption that what the philosopher cannot know cannot be real
-4. Test religious experience by their translation  to actions of love and lively existence
+4. Test religious experience by their translation to actions of love and lively existence
 	1. No one will put their life on the line for something inauthentic
 
 Material dimension
